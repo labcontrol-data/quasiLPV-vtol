@@ -24,7 +24,7 @@ Make sure that you are running Matlab 2017a (or a newer version). Older versions
 Usage
 =====
 
-Typical usage of `maincode.m` consists of running it in your MATLAB. The code generates ten figures.
+Typical usage of `maincode.m` consists of running it in your MATLAB. The code generates some figures.
 
 
 More information
