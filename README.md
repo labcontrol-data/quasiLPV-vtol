@@ -14,7 +14,17 @@ For more details about the experimental data, as long as the academic publicatio
 Installation
 ============
 
-1. Upload the source code in dsPIC33EV256GM104. Contact the authors to know more details on how to do so or visit [the project page](http://www.anvargas.com/blog) for further details.
+1. Extract the ZIP file (or clone the git repository) in your computer.
+2. Add the folders `matlab-code/` and `data/` to your path in MATLAB/Octave: e.g. 
+    - using the "Set Path" dialog in MATLAB, or 
+    - by running the `addpath` function from your command window or `startup` script.
+
+Make sure that you are running Matlab 2017a (or a newer version). Older versions may work, but it is uncertain.
+
+Usage
+=====
+
+Typical usage of `maincode.m` consists of running it in your MATLAB. The code generates ten figures.
 
 
 More information
