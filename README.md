@@ -1,6 +1,6 @@
 # quasiLPV-vtol
 
-This page provides information about the project developed at UTFPR, Brazil, called Solar Tracker. Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. The paper ["xxxn"](http://www.anvargas.com/blog) describes the details of this experiment.
+This page provides information about the project developed at UTFPR, Brazil, called xxx. Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. The paper ["xxxn"](http://www.anvargas.com/blog) describes the details of this experiment.
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.414202972.svg)](https://zenodo.org/badge/latestdoi/414202972)
