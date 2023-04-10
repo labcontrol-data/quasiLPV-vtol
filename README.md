@@ -1,5 +1,15 @@
 # quasiLPV-vtol
 
+
+<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="https://github.com/labcontrol-data/images/blob/main/logo.png"></a></p>
+
+# [Labcontrol, Brazil](http://www.labcontrol.xyz/dokuwiki)
+
+[**Labcontrol**](http://www.labcontrol.xyz/dokuwiki)  is a research laboratory located at Universidade Tecnológica Federal do Paraná (UTFPR), Brazil. UTFPR is a Brazilian public university located in the Paraná state, Brazil. [**Labcontrol**](http://www.labcontrol.xyz/dokuwiki)  develops research on Control Systems and Automation. The Scientific Director of Labcontrol is [Prof. Dr. Alessandro N. Vargas](http://www.anvargas.com). The projects hosted in [**Labcontrol**](http://www.labcontrol.xyz/dokuwiki)  are [described in this link (click here).](http://www.anvargas.com/blog)
+
+About
+============
+
 This page provides information about the project developed at UTFPR, Brazil, called "Quasi-LPV to design VTOL control". Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. The paper ["Quasi-LPV to design VTOL control"](http://www.anvargas.com/blog) describes the details of this experiment.
 
 
