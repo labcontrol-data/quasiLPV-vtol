@@ -35,4 +35,20 @@ More information
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.623620184.svg)](https://zenodo.org/badge/latestdoi/623620184)
 
+Citation
+------
+How to cite the data of this repository:
+
+```
+@misc{vargasGithub2023,
+    author       = {A. N. Vargas},
+    title        = {Data, source code, and documents for the Quasi-LPV of VTOL Kit},
+    month        = {Apr},
+    year         = 2023,
+    doi          = {10.5281/zenodo.623620184},
+    version      = {1.0.1},
+    publisher    = {Zenodo},
+    url          = {https://zenodo.org/badge/latestdoi/623620184}
+};
+```
 
